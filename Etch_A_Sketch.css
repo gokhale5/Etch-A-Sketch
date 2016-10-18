@@ -1,0 +1,37 @@
+body {
+	background-color: #b1bcce;
+}
+
+.container {
+	text-align: center;
+}
+
+#title {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+
+#description {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Arial, sans-serif;
+}
+
+#buttons {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Arial, sans-serif;
+}
+
+.grid {
+	height: 960px;
+	width: 960px;
+	margin: auto;
+}
+.square {
+	background-color: #000;
+	float: left;
+	border: 1px dotted white;
+}
